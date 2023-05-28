@@ -37,6 +37,4 @@ print("На еду и жилье я трачу " + str(result) + " доллар�
 # result = c.format(a,b)
 # print(result.title())
 
-# dfsd
-
 
